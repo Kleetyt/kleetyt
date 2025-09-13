@@ -5,7 +5,7 @@
 
 <h4 align="center">- About Me - </h4>
 
-- 💬 Ask me about: **System Scripting, Windows API, Reverse Engineering.**
+- 💬 Ask me about: **Discord Bots, Discord/Spotify API, Reverse Engineering.**
   
 ---
 
